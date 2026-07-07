@@ -32,8 +32,9 @@ import java.util.Locale;
 import java.util.Map;
 
 /**
- * Pantalla de la encuesta. Las preguntas NO están en el XML: se consultan
- * de la tabla "preguntas" y los componentes visuales se generan dinámicamente.
+ * Pantalla de la encuesta. Las preguntas NO están quemadas en el XML:
+ * se consultan de la tabla "preguntas" en SQLite y los componentes
+ * visuales se generan dinámicamente según la cantidad de preguntas.
  */
 public class MainActivity extends AppCompatActivity {
 

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Encuestas Offline</string>
+
+    <!-- Pantalla de bienvenida -->
+    <string name="emoji_bienvenida">📋</string>
+    <string name="titulo_bienvenida">Encuesta de satisfacción</string>
+    <string name="desc_bienvenida">Su opinión nos ayuda a mejorar.\nPresione el botón para comenzar.</string>
+    <string name="btn_ingresar">Ingresar a la encuesta</string>
+
+    <!-- Pantalla de encuesta -->
+    <string name="titulo_encuesta">Encuesta de satisfacción</string>
+    <string name="subtitulo_encuesta">Responda las siguientes preguntas y presione Guardar</string>
+    <string name="btn_guardar">Guardar Encuesta</string>
+    <string name="hint_respuesta">Escriba su respuesta…</string>
+    <string name="msg_responda_todo">Por favor responda todas las preguntas</string>
+
+    <!-- Pantalla de éxito -->
+    <string name="emoji_exito">✅</string>
+    <string name="titulo_exito">¡Encuesta completada con éxito!</string>
+    <string name="titulo_exito_barra">Encuesta completada</string>
+    <string name="desc_exito">Sus respuestas fueron guardadas correctamente.\n¡Gracias por su tiempo!</string>
+    <string name="btn_otra_encuesta">Realizar otra encuesta</string>
+    <string name="btn_historial">Ver historial</string>
+
+    <!-- Pantalla de historial -->
+    <string name="titulo_historial">Historial de encuestas</string>
+    <string name="msg_sin_encuestas">Aún no hay encuestas guardadas</string>
+    <string name="item_fecha">📅 %1$s</string>
+</resources>
